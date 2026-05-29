@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+title: "AI-Fit-Scan: A Labeled Dataset of AI-Powered Fitness Applications on Google Play"
+authors:
+  - given-names: Baixin
+    family-names: Guo
+    email: gbx1220max@gmail.com
+    orcid: ""
+version: 1.0.0
+date-released: 2026-05-29
+repository-code: https://github.com/GBX-Max1220/AI-Fit-Scan
+license: CC-BY-4.0
+keywords:
+  - ai-fitness
+  - ai-washing
+  - mobile-apps
+  - google-play
+  - annotation
+  - health-fitness

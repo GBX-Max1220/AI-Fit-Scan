@@ -1,0 +1,62 @@
+app_index,l2_label,ai_function,annotator_a,annotator_b,l2_evidence
+1,T,plan_generation,T,T,Official website confirms AI-powered algorithms + scientifically backed
+2,T,plan_generation,Q,T,"fitaiapp.com: 7.5M users, AI adaptive plans, 24/7 AI coach, 100M+ training data points"
+3,T,plan_generation,T,T,Description: combines structured training with AI mechanism
+4,T,plan_generation,T,T,"Industry veteran, hyper-personalized AI since early days"
+5,Q,plan_generation,Q,Q,"Description primarily disclaimers, no specific AI mechanism described"
+6,T,nutrition_ai,T,T,"40M users, AI diet + fitness, well-established"
+7,F,plan_generation,Q,F,"Domain 6 months old, WHOIS hidden, scam-suspect rating"
+8,T,plan_generation,T,T,AI Personal Trainer with personalized training
+9,T,plan_generation,T,T,"Adaptive workout, adjusts to user life"
+10,F,plan_generation,Q,F,Multiple同名apps on GP; lightweight implementation likely
+11,T,plan_generation,Q,T,User viewed app; confirmed AI features
+12,T,plan_generation,T,T,"Industry benchmark, ""uses AI to help you make progress"""
+13,F,plan_generation,F,F,"Traditional tracker, ""plan workouts, log training"""
+14,T,plan_generation,T,T,Science-backed AI personal trainer
+15,T,plan_generation,T,T,AI trainer with personalized plans
+16,T,plan_generation,T,T,Dual AI: personal trainer + nutritionist
+17,F,plan_generation,Q,F,Renpho exercise bike companion; AI is in hardware (auto-resistance)
+18,T,plan_generation,T,T,Creates personalized workouts based on goals/history/equipment
+19,T,plan_generation,T,T,"Explicitly ""not generic"", AI-Powered"
+20,T,llm_chat_coach,T,T,AI workout generator + calorie counter + macro tracker + meal planner
+21,F,plan_generation,Q,F,"User viewed app; ""algorithms"" ≠ ML, rule-based"
+22,T,pose_detection,T,T,"""Advanced AI and machine learning"" explicitly stated"
+23,F,plan_generation,F,F,"Smart tracker = log app, no AI core"
+24,F,plan_generation,F,F,"Claims ""AI-Driven"" but description is pure workout planner"
+25,F,plan_generation,F,F,Traditional gym tracker/planner
+26,T,plan_generation,T,T,"""Keeps adjusting as you go"", adaptive"
+27,Q,llm_chat_coach,Q,Q,"""Powered by AI"" but description generic"
+28,T,plan_generation,T,T,"""Powered by AI and guided by top experts"""
+29,T,llm_chat_coach,Q,T,"mytrainerapp.io: agentic AI, 24/7 LLM chat coach, adaptive plans"
+30,T,plan_generation,T,T,"Periodized, science-backed, adapts to fatigue"
+31,T,plan_generation,T,T,Adaptive training plans for endurance athletes
+32,F,plan_generation,Q,F,"Freediving CO2 tolerance calculator, not ML"
+33,F,plan_generation,F,F,"Pre-set templates, not AI"
+34,T,plan_generation,T,T,"AI-powered endurance training, academic backing"
+35,F,llm_chat_coach,F,F,"AI journal/diary, not fitness AI"
+36,T,plan_generation,T,T,AI-generated football training plans in 60 seconds
+37,F,llm_chat_coach,F,F,"AI therapy/coaching, mental health not fitness"
+38,T,nutrition_ai,T,T,AI-powered workout + nutrition plans
+39,T,plan_generation,Q,T,"Multi-source: predictive algo since 2019, MediaPipe pose detection, Coach+ LLM chat"
+40,T,nutrition_ai,T,T,"AI weight-loss coach, photo food recognition + voice"
+41,T,plan_generation,T,T,AI Coach creates plans from 5000+ exercises
+42,T,plan_generation,Q,T,User viewed app; running coach with Strava data-driven adaptation
+43,T,plan_generation,T,T,Creates fully personalized plans using AI
+44,T,plan_generation,T,T,AI running coach with deep analysis
+45,T,plan_generation,T,T,Adaptive coach powered by Strava data
+46,T,llm_chat_coach,T,T,"""Powered by ChatGPT-4 technology"" explicitly stated"
+47,T,plan_generation,T,T,AI-powered personalized plans + auto-adjustment
+48,F,plan_generation,Q,F,"Dr. Muscle review: AI only does progressive overload, poorly calibrated"
+49,T,plan_generation,T,T,"""Artificial intelligence, training plans"""
+50,F,plan_generation,F,F,"AI tracker but core is ranking/challenges, AI auxiliary"
+51,T,pose_detection,T,T,Auto rep counting + form analysis via Wear OS (computer vision)
+52,Q,plan_generation,Q,Q,"Description vague, ""AI Fitness Coach"" generic"
+53,F,plan_generation,F,F,"Traditional equipment companion, Coach is pre-set"
+54,F,plan_generation,F,F,"""Smart"" = basic tracker"
+55,F,plan_generation,F,F,"Simple tracker, no AI"
+56,F,nutrition_ai,F,F,"Calorie counter, AI only for food photo recognition (peripheral)"
+57,F,plan_generation,F,F,"Traditional 7-min workout, zero AI"
+58,F,plan_generation,F,F,"""Smart"" = Excel/PDF replacement"
+59,Q,plan_generation,Q,Q,"""Personal trainer alternative"", vague AI claim"
+60,F,plan_generation,F,F,Pure interval timer
+61,F,plan_generation,F,F,Simplest interval timer with counting sound
